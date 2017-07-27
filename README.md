@@ -1,8 +1,8 @@
-#Getting and Cleaning Data Project
+# Getting and Cleaning Data Project
 Aya El Murr
 This is a repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course on Coursera.
 
-Overview
+## Overview
 
 This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for subsequent analysis. A full description of the data used in this project can be found at The UCI Machine Learning Repository.
 
