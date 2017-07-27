@@ -1,5 +1,6 @@
 # Getting and Cleaning Data Project
 Aya El Murr
+
 This is a repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course on Coursera.
 
 ## Overview
