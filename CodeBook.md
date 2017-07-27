@@ -18,7 +18,7 @@ For each record in the dataset are provided
 ## Tasks performed
 1. Merge the training and the test sets to create one data set: Set the working directory, read the datasets from the tables provided and merge these datasets. 
 2. Extract only the measurements on the mean and standard deviation for each measurement: Create a logcal vector that contains TRUE values for the ID, mean and stdev columns and FALSE values for the others. Subset this data to keep only the necessary columns.
-3. Use descriptive activity names to name the activities in the data setMerge data subset with the activityType table to cinlude the descriptive activity namesSection 
+3. Use descriptive activity names to name the activities in the data set: Merge data subset with the activityType table to cinlude the descriptive activity namesSection 
 4. Appropriately label the data set with descriptive activity names: Use gsub function for pattern replacement to clean up the data labels.
 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject: as per the project instructions, this is the dataset included in this repo. 
 
